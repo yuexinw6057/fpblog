@@ -9,6 +9,7 @@ Your task is to:
 3. Open this file. 
 4. REMOVE THIS CONTENT and replace with the text below, completed for YOUR project.
 5. *Anywhere you see* _italics_ *replace that with your own words* (You can remove the italics formatting)
+6. Each week there will be a new file to hold the new Blog Entry you write on Freedom Friday. The first file should be called entry1.md.
 
 *Context*
 The “Freedom Project” for SEP10 is all about _explain what the freedom project is_. 
