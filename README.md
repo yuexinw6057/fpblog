@@ -43,5 +43,5 @@ Each week there will be a new file to hold the new Blog Entry you write on Freed
 1. Create your overview file. Call it overview.md.
 2. Create your first daily file. Call it entry1.md
 
-The format for the overview file is here:
-The format for the 'daily' entries are here:
+The format for the overview file is [here!](https://tinyurl.com/fpdailyblog)
+The format for the 'daily' entries are [over here!](https://tinyurl.com/fpintroblog)
