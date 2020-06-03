@@ -9,7 +9,10 @@
 
     The purpose of this blog is to explain the steps that I used throughout the process to create my website.   
 
-    For my project, I am making a website about the internet using _Github, HTML, CSS, and css animation._   
+For my project, I am making a website about the internet using Github, HTML, CSS, and css animation.   
 
-    This blog will document the process of independently studying the the layers of the internet, the darkweb, government's response and making the website.
+This blog will document the process of independently studying:
+1. The the layers of the internet 
+2. The darkweb
+3. And government's response and making the website.
 
