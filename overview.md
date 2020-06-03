@@ -7,7 +7,7 @@
    1. Independently studying how to code 
    2. Understanding how the darkweb works and making the website. 
 
-    The purpose of this blog is to explain the steps that I used throughout the process to create my website.   
+The purpose of this blog is to explain the steps that I used throughout the process to create my website.   
 
 For my project, I am making a website about the internet using Github, HTML, CSS, and css animation.   
 
