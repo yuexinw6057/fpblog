@@ -1,10 +1,8 @@
-log Entry # ___						     Date: _______
+log Entry # 1					     Date: 10/25/2019
 
-
-Today I ….. (Where are you at in the process of your product? See hstatsep.github.io/students/#edp)
-
-I learned ….  (What are you learning in class that applies directly to your project? How will you use the synthesis practice we did today on your project?)
-
-I used ….. (What sources did you use to learn that? Some days this will just be class instruction.)
-
-A skill that I used was ….. How are you developing in ways that apply outside of your project? See hstatsep.github.io/students/#skills
+Today, I focused on researching what is the darkweb and the different things that are present in the internet.
+I am in the process of prototyping.
+I am using markdown to record what I have seen on github. 
+Resources I used are the internet and class instructions. 
+I learned how to filter items by using google, helping me to find stuff more easily;
+as well as organizing my files in order for it to be easily accessible and not messy. 
