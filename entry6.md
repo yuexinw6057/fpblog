@@ -1,4 +1,4 @@
-Today, I completed the content for my website.   
+Today, I completed my website.   
 
 I learned how to use containers to help me position my div tags.   
 
