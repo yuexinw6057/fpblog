@@ -8,3 +8,4 @@ I also offered some tips to help them stay safe even when they are not on the de
 
 I am currently at the research stage and understanding more of my topic. I am also learning command line and github in the process.   
 
+[Next](entry3.md)

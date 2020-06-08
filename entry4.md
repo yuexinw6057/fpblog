@@ -9,3 +9,5 @@ I used google, ww3 schools, and css tricks to help me.
 A skill that I used was determination and patiences. These two skills will allow me to work effectively when it comes to.    
 
 coding. The fact how determination will be needed constantly in order for me to thrive forward is very important. 
+
+[Next](entry5.md)
