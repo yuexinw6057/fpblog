@@ -11,5 +11,4 @@ Resources I used are the internet and class instructions.
 I learned how to filter items by using google, helping me to find stuff more easily;
 as well as organizing my files in order for it to be easily accessible and not messy. 
 
-[Next](entry2.md) <br /> 
-[Back](README.md)
+[Next](entry2.md)                                                                                                       [Back](README.md)
