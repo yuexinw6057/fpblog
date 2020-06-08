@@ -1,11 +1,11 @@
-Blog entry4                                  Date: 6/3/2020
+Blog entry4                                  Date: 4/20/2020
 
-Today, I completed the content for my website.   
+Today, I restarted my website.   
 
-I learned how to use containers to help me position my div tags.   
+I learned how to to correctly use flexbox, animations, and media query into my contents.   
 
 I used google, ww3 schools, and css tricks to help me.   
 
-A skill that I used was debugging and patiences. These two skills will allow me to work effectively when it comes to.    
+A skill that I used was determination and patiences. These two skills will allow me to work effectively when it comes to.    
 
-coding. In order to solve a mistake, you will need both of these.    
+coding. The fact how determination will be needed constantly in order for me to thrive forward is very important. 
