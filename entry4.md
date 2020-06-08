@@ -11,3 +11,4 @@ A skill that I used was determination and patiences. These two skills will allow
 coding. The fact how determination will be needed constantly in order for me to thrive forward is very important. 
 
 [Next](entry5.md)
+[Back](README.md)

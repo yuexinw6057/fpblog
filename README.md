@@ -16,3 +16,5 @@ This blog will document the process of independently studying:
 2. The darkweb
 3. And government's response and making the website.
 
+[Click Me To Start Reading!](entry1.md)
+
